@@ -20,8 +20,8 @@ Notebook that contain work related to the abouve questions was uploaded using `.
 
 ## Results <a name="results"></a>
 
-The main findings can be found at the [Medium blogpost available here](https://medium.com/@bernalp/starting-a-coffee-shop-basic-things-to-research-bfee623472f).
+The main findings can be found at the [Medium blogpost here](https://medium.com/@bernalp/starting-a-coffee-shop-basic-things-to-research-bfee623472f).
 
 ## Credits <a name="credits"></a>
 
-Credits to respective owner [here](https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-retention-malaysia-survey?select=Starbucks+satisfactory+survey.csv).
+Credits to respective [datasets owner here](https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-retention-malaysia-survey?select=Starbucks+satisfactory+survey.csv).
