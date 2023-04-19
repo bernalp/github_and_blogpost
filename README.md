@@ -24,4 +24,4 @@ The main findings of the code can be found at the post available here.
 
 ## Credits <a name="credits"></a>
 
-Credits to respective owner [here](https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-retention-malaysia-survey?select=Starbucks+satisfactory+survey+encode+cleaned.csv).
+Credits to respective owner [here](https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-retention-malaysia-survey?select=Starbucks+satisfactory+survey.csv).
