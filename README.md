@@ -20,7 +20,7 @@ Notebook that contain work related to the abouve questions was uploaded using `.
 
 ## Results <a name="results"></a>
 
-The main findings can be found at the post available [here](https://medium.com/@bernalp/starting-a-coffee-shop-basic-things-to-research-bfee623472f).
+The main findings can be found at the blogpost available [here](https://medium.com/@bernalp/starting-a-coffee-shop-basic-things-to-research-bfee623472f).
 
 ## Credits <a name="credits"></a>
 
