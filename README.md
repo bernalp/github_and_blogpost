@@ -12,7 +12,7 @@ For this project, I was interestested in using Model Validation and XG Boost to 
 
 1. What factors affect to customers loyalty?
 2. How income, location, and visit rate contributed to customers loyalty?
-3. What coffee shop classification that fit Starbucks market?
+3. What coffee shop classification that can compete Starbucks market?
 
 ## File Descriptions <a name="desc"></a>
 
