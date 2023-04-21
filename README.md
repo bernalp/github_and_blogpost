@@ -21,7 +21,8 @@ For this project, I was interestested in using Model Validation and XG Boost to 
 
 ## File Descriptions <a name="desc"></a>
 
-Notebook that contain work related to the abouve questions was uploaded using `.ipynb` file
+1. Jupyter Notebook that contain work related to the above questions was uploaded using `.ipynb` file.
+2. If you would like to access the datasets to explore more analysis you can find `.csv` file.
 
 ## Results <a name="results"></a>
 
