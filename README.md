@@ -9,7 +9,7 @@
 
 ## Installation <a name="installation"></a>
 
-The code should run with no issues using Python versions 3.*.
+The code should run with no issues using Jupyter Notebook.
 
 ## Project Motivation <a name="motivation"></a>
 
