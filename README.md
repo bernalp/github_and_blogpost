@@ -1,10 +1,15 @@
 
 ## Table of Contents
 
-1. [Project Motivation](#motivation)
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
 2. [File Descriptions](#desc)
 4. [Results](#results)
 4. [Credits](#credits)
+
+## Installation <a name="installation"></a>
+
+The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation <a name="motivation"></a>
 
