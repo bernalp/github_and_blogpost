@@ -1,4 +1,4 @@
-# Github and Blogpost
+# Github and Blogpost Project
 
 ## Table of Contents
 
