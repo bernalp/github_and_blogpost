@@ -27,9 +27,11 @@ For this project, I was interestested using Data Visualization, Model Validation
 ## Results <a name="results"></a>
 
 For answer 3 questions from project motivations above, you can look at main findings here:
+
 1. [Medium blogpost](https://medium.com/@bernalp/starting-a-coffee-shop-basic-things-to-research-bfee623472f).
 2. `sb-visual.ipynb`
 3. `customer-loyalty.ipynb`
+
 The link and `.ipynb` file provided general and technical explanation to answer those questions.
 
 ## Credits <a name="credits"></a>
