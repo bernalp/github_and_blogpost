@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project
+# Github and Blogpost
 
 ## Table of Contents
 
