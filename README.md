@@ -14,7 +14,7 @@ The code should run with no issues using Jupyter Notebook.
 
 ## Project Motivation <a name="motivation"></a>
 
-For this project, I was interestested using Data Visualization, Model Validation, and XG Boost to Starbucks Customer Survey data for better understand:
+This is my first project as a student from [Udacity](https://www.udacity.com/) "Data Science Nanodegree Program". I was interestested using Data Visualization, Model Validation, and XG Boost to Starbucks Customer Survey data for better understand:
 
 1. What factors affect to customers loyalty?
 2. How income, location, and visit rate contributed to customers loyalty?
@@ -37,4 +37,4 @@ The link and `.ipynb` file provided general and technical explanation to answer 
 
 ## Credits <a name="credits"></a>
 
-Credits to respective [Datasets owner here](https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-retention-malaysia-survey?select=Starbucks+satisfactory+survey.csv).
+Credits to respective [datasets owner here](https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-retention-malaysia-survey?select=Starbucks+satisfactory+survey.csv).
